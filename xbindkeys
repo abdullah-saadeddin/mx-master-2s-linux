@@ -1,0 +1,9 @@
+    
+                                        
+# backward button => volume down
+"xte 'key XF86AudioLowerVolume'"              
+   b:6                                  
+                                        
+# forward button => volume up         
+"xte 'key XF86AudioRaiseVolume'"            
+   b:7
